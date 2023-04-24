@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andré-oliveira-santos-819810263/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](andreoliveirasantos777@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](André Oliveira Santos <andreoliveirasantos777@gmail.com>)
 
 ![Andre GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreSantos09&show_icons=true&theme=dracula)
 
