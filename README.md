@@ -4,7 +4,7 @@
 
 ![Andre GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreSantos09&show_icons=true&theme=dracula)
 
-<img align="left" height="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreSantos09&layout=compact&langs_count=16&theme=dracula"/>
+<img align="center" height="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreSantos09&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 ### Melhores Tecnologias ✔️
