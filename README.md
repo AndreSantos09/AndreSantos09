@@ -1,64 +1,64 @@
-# 👋 Olá, eu sou André Santos!
+# Olá, eu sou André Santos!
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Engenheiro+de+Software+Pleno;Especialista+em+Sistemas+Distribuídos;Arquiteto+de+Soluções+Telecom;Inovador+em+Infraestrutura)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Engenheiro+de+Software;Especialista+em+Sistemas+Distribuídos;Arquiteto+de+Soluções+Telecom;Inovador+em+Infraestrutura)](https://git.io/typing-svg)
   
 </div>
 
 ---
 
-## 🚀 Sobre Mim
+## Sobre Mim
 
-🔭 **Engenheiro de Software** com sólida experiência na concepção e desenvolvimento de **sistemas distribuídos de alta performance** para o setor de telecomunicações.
+**Engenheiro de Software** com sólida experiência na concepção e desenvolvimento de **sistemas distribuídos de alta performance** para o setor de telecomunicações.
 
-💡 Meu foco principal é converter **desafios complexos de infraestrutura** em soluções tecnológicas **robustas, escaláveis e inteligentes**.
+Meu foco principal é converter **desafios complexos de infraestrutura** em soluções tecnológicas **robustas, escaláveis e inteligentes**.
 
-🌟 Atualmente coordeno projetos de **pesquisa e desenvolvimento** focados em Telecom e atuo como **consultor**, auxiliando empresas a projetarem sistemas resilientes e preparados para o futuro.
+Atualmente coordeno projetos de **pesquisa e desenvolvimento** focados em Telecom e atuo como **consultor**, auxiliando empresas a projetarem sistemas resilientes e preparados para o futuro.
 
 ---
 
-## 🏢 Experiência Profissional
+## Experiência Profissional
 
-### 🔹 **Virtex Telecom** - Engenheiro de Software
+### **Virtex Telecom** - Engenheiro de Software
 
 Liderei a arquitetura de projetos estratégicos que otimizaram significativamente as operações de rede da empresa:
 
-#### 📡 **Arquitetura de Monitoramento SNMP Avançado**
+#### **Arquitetura de Monitoramento SNMP Avançado**
 - Desenvolvi um **ecossistema completo** de monitoramento baseado em SNMP traps
 - Implementei **mensageria, microsserviços de processamento e APIs**
 - **Revolucionou** a visibilidade da infraestrutura e capacidade de resposta proativa a incidentes
 
-#### 🌐 **Plataforma de Análise de Redes GPON**
+#### **Plataforma de Análise de Redes GPON**
 - Projetei e implementei **arquitetura distribuída** para análise avançada de dados
 - Habilitou **identificação de anomalias** e otimização de performance em larga escala
 - Processamento de dados em **tempo real** com alta disponibilidade
 
 ---
 
-## 🛠️ Stack Tecnológica
+## Stack Tecnológica
 
 <div align="center">
 
-### 🏗️ **Arquitetura & Infraestrutura**
+### **Arquitetura & Infraestrutura**
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logo=microgenetics&logoColor=white)
 ![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-4ECDC4?style=for-the-badge&logo=github&logoColor=white)
 
-### 💻 **Backend & Desenvolvimento**
+### **Backend & Desenvolvimento**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🤖 **Inteligência Artificial & Dados**
+### **Inteligência Artificial & Dados**
 ![OpenAI](https://img.shields.io/badge/OpenAI-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF9500?style=for-the-badge&logo=openai&logoColor=white)
 
-### 📡 **Telecomunicações & Redes**
+### **Telecomunicações & Redes**
 ![SNMP](https://img.shields.io/badge/SNMP-006400?style=for-the-badge&logo=cisco&logoColor=white)
 ![GPON](https://img.shields.io/badge/GPON-0078D4?style=for-the-badge&logo=fiber&logoColor=white)
 ![Network Monitoring](https://img.shields.io/badge/Network%20Monitoring-FF4B4B?style=for-the-badge&logo=prometheus&logoColor=white)
@@ -67,7 +67,7 @@ Liderei a arquitetura de projetos estratégicos que otimizaram significativament
 
 ---
 
-## 📊 Principais Competências
+## Principais Competências
 
 ```mermaid
 mindmap
@@ -111,11 +111,11 @@ mindmap
 
 ---
 
-## 🎯 Projetos em Destaque
+## Projetos em Destaque
 
 <div align="center">
 
-| 🏆 Projeto | 📋 Descrição | 🚀 Tecnologias |
+| Projeto | Descrição | Tecnologias |
 |------------|--------------|----------------|
 | **SNMP Monitoring Ecosystem** | Sistema completo de monitoramento de infraestrutura com processamento em tempo real | `Python` `Kubernetes` `RabbitMQ` `SNMP` |
 | **GPON Analytics Platform** | Plataforma distribuída para análise de redes GPON com detecção de anomalias | `Microservices` `Redis` `PostgreSQL` `ML` |
@@ -125,7 +125,7 @@ mindmap
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   
@@ -137,27 +137,27 @@ mindmap
 
 ---
 
-## 🌱 Atualmente Explorando
+## Atualmente Explorando
 
-- 🔬 **Pesquisa & Desenvolvimento** em soluções Telecom de próxima geração
-- 🤖 **Integração de LLMs** em sistemas de infraestrutura
-- ☁️ **Cloud-Native Technologies** e arquiteturas serverless
-- 📊 **Observabilidade Avançada** e AIOps
-
----
-
-## 💼 Serviços de Consultoria
-
-🔹 **Arquitetura de Sistemas Distribuídos**  
-🔹 **Modernização de Infraestrutura**  
-🔹 **Otimização de Performance**  
-🔹 **Implementação de Monitoramento Avançado**  
-🔹 **Migração para Microsserviços**  
-🔹 **Integração de Soluções de IA**  
+- **Pesquisa & Desenvolvimento** em soluções Telecom de próxima geração
+- **Integração de LLMs** em sistemas de infraestrutura
+- **Cloud-Native Technologies** e arquiteturas serverless
+- **Observabilidade Avançada** e AIOps
 
 ---
 
-## 📫 Vamos Conectar!
+## Serviços de Consultoria
+
+- **Arquitetura de Sistemas Distribuídos**  
+- **Modernização de Infraestrutura**  
+- **Otimização de Performance**  
+- **Implementação de Monitoramento Avançado**  
+- **Migração para Microsserviços**  
+- **Integração de Soluções de IA**  
+
+---
+
+## Vamos Conectar!
 
 <div align="center">
 
@@ -172,7 +172,7 @@ mindmap
 
 <div align="center">
   
-  ### 🚀 "Convertendo desafios complexos em soluções tecnológicas inteligentes"
+  ### "Convertendo desafios complexos em soluções tecnológicas inteligentes"
   
   **Estou aberto a novas conexões e oportunidades para colaborar em projetos desafiadores que envolvam tecnologia de ponta.**
   
