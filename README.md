@@ -18,25 +18,7 @@ Atualmente coordeno projetos de **pesquisa e desenvolvimento** focados em Teleco
 
 ---
 
-## Experiência Profissional
-
-### **Virtex Telecom** - Engenheiro de Software
-
-Liderei a arquitetura de projetos estratégicos que otimizaram significativamente as operações de rede da empresa:
-
-#### **Arquitetura de Monitoramento SNMP Avançado**
-- Desenvolvi um **ecossistema completo** de monitoramento baseado em SNMP traps
-- Implementei **mensageria, microsserviços de processamento e APIs**
-- **Revolucionou** a visibilidade da infraestrutura e capacidade de resposta proativa a incidentes
-
-#### **Plataforma de Análise de Redes GPON**
-- Projetei e implementei **arquitetura distribuída** para análise avançada de dados
-- Habilitou **identificação de anomalias** e otimização de performance em larga escala
-- Processamento de dados em **tempo real** com alta disponibilidade
-
----
-
-## Stack Tecnológica
+## 🛠️ Stack Tecnológica
 
 <div align="center">
 
@@ -67,7 +49,7 @@ Liderei a arquitetura de projetos estratégicos que otimizaram significativament
 
 ---
 
-## Principais Competências
+## 📊 Principais Competências
 
 ```mermaid
 mindmap
@@ -111,7 +93,7 @@ mindmap
 
 ---
 
-## Projetos em Destaque
+## 🚀 Projetos em Destaque
 
 <div align="center">
 
@@ -125,7 +107,7 @@ mindmap
 
 ---
 
-## GitHub Stats
+## 📈 GitHub Stats
 
 <div align="center">
   
@@ -137,7 +119,7 @@ mindmap
 
 ---
 
-## Atualmente Explorando
+## 🌱 Atualmente Explorando
 
 - **Pesquisa & Desenvolvimento** em soluções Telecom de próxima geração
 - **Integração de LLMs** em sistemas de infraestrutura
@@ -146,7 +128,7 @@ mindmap
 
 ---
 
-## Serviços de Consultoria
+## 💼 Serviços de Consultoria
 
 - **Arquitetura de Sistemas Distribuídos**  
 - **Modernização de Infraestrutura**  
@@ -157,7 +139,7 @@ mindmap
 
 ---
 
-## Vamos Conectar!
+## 📫 Vamos Conectar!
 
 <div align="center">
 
