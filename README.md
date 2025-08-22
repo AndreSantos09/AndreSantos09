@@ -10,7 +10,7 @@
 
 ## 🚀 Sobre Mim
 
-🔭 **Engenheiro de Software Pleno** com sólida experiência na concepção e desenvolvimento de **sistemas distribuídos de alta performance** para o setor de telecomunicações.
+🔭 **Engenheiro de Software** com sólida experiência na concepção e desenvolvimento de **sistemas distribuídos de alta performance** para o setor de telecomunicações.
 
 💡 Meu foco principal é converter **desafios complexos de infraestrutura** em soluções tecnológicas **robustas, escaláveis e inteligentes**.
 
