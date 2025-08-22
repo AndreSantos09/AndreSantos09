@@ -20,7 +20,7 @@
 
 ## 🏢 Experiência Profissional
 
-### 🔹 **Virtex Telecom** - Engenheiro de Software Pleno
+### 🔹 **Virtex Telecom** - Engenheiro de Software
 
 Liderei a arquitetura de projetos estratégicos que otimizaram significativamente as operações de rede da empresa:
 
