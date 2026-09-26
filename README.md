@@ -2,7 +2,7 @@
 
 Back-end & AI Engineer. Trabalho com software back-end em Python e com agentes de IA integrados ao ciclo de desenvolvimento — do design ao deploy e operação.
 
-Construo agentes multi-step com LangGraph, exponho ferramentas via Model Context Protocol (MCP) e avalio os outputs dos modelos com smoke tests e benchmarks antes de colocá-los em produção.
+Arquiteto sistemas de agentes multi-step com LangGraph, expondo capacidades via Model Context Protocol (MCP) para integração com ferramentas e sistemas externos. Estabeleço pipelines de avaliação contínua — smoke tests, benchmarks e regressões — como gate de qualidade antes de promover modelos para produção.
 
 Ipueiras, PI (remoto) — AWS Certified Cloud Practitioner
 
