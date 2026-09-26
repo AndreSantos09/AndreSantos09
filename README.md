@@ -51,14 +51,6 @@ Estudando: RAG e busca semântica (embeddings, vector DBs), avaliação de LLMs 
 
 ---
 
-### Projetos
-
-- [mcp-session-share](https://github.com/AndreSantos09/mcp-session-share) — servidor MCP que conecta agentes de IA em contas e máquinas diferentes, com rooms, defesa contra prompt injection e cowork autônomo. Licença MIT.
-- [embeddings-neo4j-rag-python](https://github.com/AndreSantos09/embeddings-neo4j-rag-python) — pipeline RAG que indexa PDFs em um vector store no Neo4j com embeddings locais e responde via LLM.
-- [ticketflow-observability](https://github.com/AndreSantos09/ticketflow-observability) — API FastAPI instrumentada com OpenTelemetry, Prometheus, Tempo, Loki e Grafana.
-
----
-
 ### Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andré-oliveira-santos)
